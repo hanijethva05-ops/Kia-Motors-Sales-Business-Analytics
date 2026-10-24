@@ -23,3 +23,9 @@ This project contains 50 SQL questions and queries designed to explore business 
 - Practiced SQL queries for business analysis
 - Worked with joins, aggregate functions, subqueries, and grouping
 - Explored sales, customer, dealership, and service data
+
+## Related Excel Dashboard
+
+The SQL analysis is complemented by an interactive Microsoft Excel dashboard for visualizing Kia Motors sales performance.
+
+**Excel Dashboard:** [Kia Motors Sales Dashboard](https://github.com/hanijethva05-ops/Kia-Motors-Excel-Sales-Dashboard)
